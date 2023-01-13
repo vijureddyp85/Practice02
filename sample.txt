@@ -1,1 +1,2 @@
 Adding new sample file
+Modifying exisitng sample.txt file
